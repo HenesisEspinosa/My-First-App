@@ -4,4 +4,6 @@
     <string name="button_send">Send</string>
     <string name="action_settings">Setting</string>
     <string name="title_activity_my">MyActivity</string>
+    <string name="edit_messages">Edit Message</string>
+    <string name="button_sends">Send</string>
 </resources>
